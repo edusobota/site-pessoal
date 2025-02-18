@@ -90,14 +90,6 @@ nav ul li a:hover {
     color: #333;
 }
 
-.hero {
-    background: url('https://source.unsplash.com/1600x900/?technology,web,programming') no-repeat center center/cover;
-    color: #2a2a2a;
-    text-align: center;
-    padding: 150px 20px;
-    margin-top: 120px;
-}
-
 .hero h2 {
     font-size: 36px;
     font-weight: bold;
